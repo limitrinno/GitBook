@@ -9,3 +9,7 @@
 ## V2ray
 
 * [docker下搭建v2ray+nginx教程](v2ray/docker-xia-da-jian-v2ray+nginx-jiao-cheng.md)
+
+## Nginx
+
+* [Nginx 开启反向代理](nginx/nginx-kai-qi-fan-xiang-dai-li.md)
